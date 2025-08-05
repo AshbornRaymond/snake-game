@@ -1,5 +1,7 @@
 # Snake Game
 
+live at: https://ashbornraymond.github.io/snake-game/
+
 A classic Snake game built with HTML, CSS, and JavaScript. This project creates a responsive and interactive Snake game that works on both desktop and mobile devices.
 
 ## Features
